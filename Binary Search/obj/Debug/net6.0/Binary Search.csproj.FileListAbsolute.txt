@@ -1,0 +1,15 @@
+C:\Users\tyccr\Documents\Binary Search\bin\Debug\net6.0\Binary Search.exe
+C:\Users\tyccr\Documents\Binary Search\bin\Debug\net6.0\Binary Search.deps.json
+C:\Users\tyccr\Documents\Binary Search\bin\Debug\net6.0\Binary Search.runtimeconfig.json
+C:\Users\tyccr\Documents\Binary Search\bin\Debug\net6.0\Binary Search.dll
+C:\Users\tyccr\Documents\Binary Search\bin\Debug\net6.0\ref\Binary Search.dll
+C:\Users\tyccr\Documents\Binary Search\bin\Debug\net6.0\Binary Search.pdb
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.csproj.AssemblyReference.cache
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.AssemblyInfoInputs.cache
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.AssemblyInfo.cs
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.dll
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\ref\Binary Search.dll
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.pdb
+C:\Users\tyccr\Documents\Binary Search\obj\Debug\net6.0\Binary Search.genruntimeconfig.cache
